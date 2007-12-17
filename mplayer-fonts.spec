@@ -17,7 +17,6 @@ URL:		http://www.mplayerhq.hu
 License:	GPL
 Group:		Video
 Buildarch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 This packages includes following fonts:
