@@ -2,7 +2,7 @@
 %define name		%{base_name}-fonts
 %define summary		Fonts for %{base_name}
 %define version 1.0
-%define release %mkrel 14
+%define release %mkrel 15
 %define fonts_dir	%{_datadir}/%{base_name}/fonts
 %define font_dir	%{_datadir}/%{base_name}/font
 
