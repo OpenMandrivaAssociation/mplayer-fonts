@@ -53,3 +53,35 @@ update-alternatives --remove mplayer-fonts %{fonts_dir}/koi8r-font
 %defattr(-,root,root)
 %{fonts_dir}
 
+
+
+%changelog
+* Tue Aug 02 2011 Götz Waschk <waschk@mandriva.org> 1.0-15mdv2012.0
++ Revision: 692729
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tv@mandriva.org> 1.0-14mdv2011.0
++ Revision: 252963
+- rebuild
+
+* Thu Jan 03 2008 Olivier Blin <blino@mandriva.org> 1.0-12mdv2008.1
++ Revision: 140963
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Mon Jul 31 2006 Götz Waschk <waschk@mandriva.org> 1.0-1mdv2007.0
+- Rebuild
+
+* Tue Mar 14 2006 Götz Waschk <waschk@mandriva.org> 1.0-11mdk
+- Rebuild
+- use mkrel
+
+* Sun Mar 13 2005 Götz Waschk <waschk@linux-mandrake.com> 1.0-10mdk
+- rebuild
+
+* Fri Feb 06 2004 G�tz Waschk <waschk@linux-mandrake.com> 1.0-9mdk
+- anniversary rebuild
+
