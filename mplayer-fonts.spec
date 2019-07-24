@@ -1,7 +1,7 @@
 Summary:	Fonts for MPlayer
 Name:		mplayer-fonts
-Version:	1.0
-Release:	17
+Version:	20030714
+Release:	1
 License:	GPL
 Group:		Video
 Url:		http://www.mplayerhq.hu
