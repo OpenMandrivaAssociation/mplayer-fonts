@@ -4,7 +4,7 @@ Version:	20030714
 Release:	1
 License:	GPL
 Group:		Video
-Url:		http://www.mplayerhq.hu
+Url:		https://www.mplayerhq.hu
 Source0:	koi8r-font.tar.bz2
 Source1:	mp-arial-iso-8859-1.tar.bz2
 Source2:	mp-arial-iso-8859-2.tar.bz2
